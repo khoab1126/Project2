@@ -18,6 +18,11 @@ A really basic site for User can create their own Hearthstone card, share that c
 
 ## Wireframe
 
+
+## Example Routes
+
+![example routes for Hearthstone card Generator](https://github.com/khoab1126/Project2/blob/master/public/images/Examples%20Routes.png?raw=true)
+
 ## MVP User Stories
 
 As a user, I should be able to generate a Hearthstone card that exactly what I want to generate.
