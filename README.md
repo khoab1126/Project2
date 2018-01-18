@@ -21,11 +21,11 @@ A really basic site for User can create their own Hearthstone card, share that c
 
 ## Entity Relationship Diagram
 
-![User and Hearthstone card Generator]()
+![User and Hearthstone card Generator](https://github.com/khoab1126/Project2/blob/master/public/images/ERD%20Example.jpg?raw=true)
 
 ## Example Routes
 
-![example routes for Hearthstone card Generator](https://github.com/khoab1126/Project2/blob/master/public/images/Examples%20Routes.png?raw=true)
+![example routes for Hearthstone card Generator](https://github.com/khoab1126/Project2/blob/master/public/images/Example%20Routes.png?raw=true)
 
 ## MVP User Stories
 
