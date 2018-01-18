@@ -19,6 +19,10 @@ A really basic site for User can create their own Hearthstone card, share that c
 ## Wireframe
 
 
+## Entity Relationship Diagram
+
+![User and Hearthstone card Generator]()
+
 ## Example Routes
 
 ![example routes for Hearthstone card Generator](https://github.com/khoab1126/Project2/blob/master/public/images/Examples%20Routes.png?raw=true)
