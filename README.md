@@ -18,6 +18,7 @@ A really basic site for User can create their own Hearthstone card, share that c
 
 ## Wireframe
 
+![Homepage Mock Up](https://github.com/khoab1126/Project2/blob/master/public/images/Homepage_MockUp.png?raw=true)
 
 ## Entity Relationship Diagram
 
